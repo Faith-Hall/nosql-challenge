@@ -58,7 +58,7 @@
 ---
 ### Acknowledgements: 
 I wish to thank my teaching staff: 
-    - Hunter Hollis
-    - Sam Espe
-    - Randy Sendek
+- Hunter Hollis
+- Sam Espe
+- Randy Sendek
 
