@@ -55,3 +55,10 @@
 > See `top5Rating.csv` in anaysis folder
 4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten 
 > See `hygenescore0.csv` in anaysis folder
+---
+### Acknowledgements: 
+I wish to thank my teaching staff: 
+    - Hunter Hollis
+    - Sam Espe
+    - Randy Sendek
+
