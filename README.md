@@ -48,10 +48,10 @@
   - Use `update_many` to convert `RatingValue` to integer numbers.
 ## Part 3: Exploratory Analysis
 1. Which establishments have a hygiene score equal to 20?
-> See `hygenescore.csv` in pandas_anaysis folder
+> See `hygenescore.csv` in anaysis folder
 2. Which establishments in London have a RatingValue greater than or equal to 4?
-> See `londonHighRating.csv` in pandas_anaysis folder
+> See `londonHighRating.csv` in anaysis folder
 3. What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
-> See `top5Rating.csv` in pandas_anaysis folder
+> See `top5Rating.csv` in anaysis folder
 4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten 
-> See `hygenescore0.csv` in pandas_anaysis folder
+> See `hygenescore0.csv` in anaysis folder
